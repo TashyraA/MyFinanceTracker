@@ -1,52 +1,21 @@
-# Your Layout project
+# ✨ My Tracker App
 
-This is the codebase for your My Planner app.
+A beautifully crafted personal planner and wellness dashboard built with React. This app blends technical precision with emotional resonance — helping users organize their lives with clarity, creativity, and calm.
 
+## 🌈 Features
 
-# Installation
+- 📅 **Monthly Planner** — Navigate each month with goals, tasks, and calendar events
+- ✅ **Daily To-Do Lists** — Track tasks with refreshing feedback and quick-add interactions
+- 💸 **Debt & Budget Tracker** — Visualize financial progress with alternating backgrounds and playful accents
+- 🧠 **Habit Tracker** — Build consistency with gentle nudges and pastel progress bars
+- 🎨 **Customizable UI** — Soft coquette palette, hover states, and alternating layouts for emotional lift
 
-You can run and update this app locally. To get started, follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# 1. Clone the repo.
-git clone <$GIT_URL>
+- **React + TypeScript** — Component-based architecture for maintainability and clarity
+- **Tailwind CSS** — Rapid styling with custom themes and responsive layouts
+- **LocalStorage** — Persistent data without backend complexity
+- **Lucide Icons** — Elegant iconography for intuitive navigation
 
-# 2. Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📦 Folder Structure
 
-# 3. Install the dependencies.
-npm install
-# You can use `bun install` but need to run `npm install -g bun` to install it first.
-
-# 4. Start the development server with auto-reloading and an instant preview.
-npm run dev
-# You can use `bun run dev`
-
-# 5. On your browser navigate to http://localhost:5173/
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with Vite, React, Shadcn, Tailwind CSS, React Router. For a complete list see `package.json`.
-
-## How can I deploy this project?
-
-Build and deploy this app using your preferred hosting provider or CI/CD pipeline.
-
-## I want to use a custom domain, is that possible?
-
-We don't support custom domains yet.
